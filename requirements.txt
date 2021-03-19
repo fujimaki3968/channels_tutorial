@@ -15,7 +15,7 @@ daphne==2.4.1
 defusedxml==0.6.0
 Django==3.0.7
 django-cors-headers==3.2.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-camel-case==1.1.2
 djangorestframework-jwt==1.11.0
 hiredis==1.0.1
